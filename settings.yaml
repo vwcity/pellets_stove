@@ -4,7 +4,7 @@ settings_factory:
   02_start_min: 3
   03_cadence_clean: 45
   04_light_time: 0.6
-  05_start_time: 1
+  05_start_time: 0.8
   06_auger_p1: 1.2
   07_auger_p5: 1.8
   08_cleaning_speed: 2700
