@@ -1,4 +1,5 @@
 settings_factory:
+  code: 77
   01_timeout_minutes: 10
   02_start_min: 3
   03_cadence_clean: 45
