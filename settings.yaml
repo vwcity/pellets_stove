@@ -1,0 +1,26 @@
+settings_factory:
+  timeout_minutes: 10
+  start_min: 3
+  cadence_clean: 45
+  light_time: 0.6
+  start_time: 1
+  auger_p1: 1.2
+  auger_p5: 1.8
+  cleaning_speed: 2700
+  auger_cleaning: 0.5
+  threshold_off: 60
+  alarm_delay: 30
+  cleaning_duration: 30
+  min_threshold: 45
+  max_threshold: 200
+  blower: 65
+  smokey_on: 2000
+  smokey_start: 2000
+  smokey_p1: 1400
+  smokey_p5: 1900
+  blower_p1: 175
+  blower_p5: 210
+  encoder: on
+  blower_clean: 130
+settings_type_pellet: -9
+settings_type_chimney: +9
