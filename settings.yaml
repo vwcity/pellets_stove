@@ -5,7 +5,7 @@ settings_factory:
   03_cadence_clean: 45
   04_light_time: 0.5
     default: 1
-  05_start_time: 0.5
+  05_start_time: 0.6
     default: 1
   06_auger_p1: 0.8
     default: 1.2
