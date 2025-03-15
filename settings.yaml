@@ -12,6 +12,7 @@ settings_factory:
   07_auger_p5: 1.8
     default: 1.8
   08_cleaning_speed: 2700
+    real: 2800
   09_auger_cleaning: 0.5
   10_threshold_off: 60
   11_alarm_delay: 30
@@ -21,7 +22,8 @@ settings_factory:
   15_blower: 65
   16_smokey_on: 2000
   17_smokey_start: 2000
-  18_smokey_p1: 1400 (reel = 1700)
+  18_smokey_p1: 1400
+    real: 1700
   19_smokey_p5: 1900
   20_blower_p1: 175
   21_blower_p5: 210
