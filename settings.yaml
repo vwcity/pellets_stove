@@ -7,9 +7,9 @@ settings_factory:
     default: 1
   05_start_time: 0.6
     default: 1
-  06_auger_p1: 0.9
+  06_auger_p1: 0.8
     default: 1.2
-  07_auger_p5: 1.5
+  07_auger_p5: 1.4
     default: 1.8
   08_cleaning_speed: 2700
     real: 2800
