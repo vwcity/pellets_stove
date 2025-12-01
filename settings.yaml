@@ -7,7 +7,7 @@ settings_factory:
     default: 1
   05_start_time: 0.6
     default: 1
-  06_auger_p1: 0.8
+  06_auger_p1: 0.7
     default: 1.2
   07_auger_p5: 1.4
     default: 1.8
@@ -22,8 +22,8 @@ settings_factory:
   15_blower: 65
   16_smokey_on: 2000
   17_smokey_start: 2000
-  18_smokey_p1: 1400
-    real: 1700
+  18_smokey_p1: 1450
+    real: 1760
   19_smokey_p5: 1900
   20_blower_p1: 175
   21_blower_p5: 210
@@ -31,3 +31,4 @@ settings_factory:
   23_blower_clean: 130
 settings_type_pellet: 0
 settings_type_chimney: 9
+
