@@ -9,7 +9,7 @@ settings_factory:
     default: 1
   06_auger_p1: 0.7
     default: 1.2
-  07_auger_p5: 1.4
+  07_auger_p5: 1.8
     default: 1.8
   08_cleaning_speed: 2700
     real: 2800
@@ -31,6 +31,7 @@ settings_factory:
   23_blower_clean: 130
 settings_type_pellet: 0
 settings_type_chimney: 9
+
 
 
 
