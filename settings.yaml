@@ -1,9 +1,9 @@
 settings_factory:
   code: 77
-  01_timeout_minutes: 6
+  01_timeout_minutes: 5
   02_start_min: 5
   03_cadence_clean: 45
-  04_light_time: 1
+  04_light_time: 0.9
     default: 1
   05_start_time: 0.8
     default: 1
@@ -31,6 +31,7 @@ settings_factory:
   23_blower_clean: 130
 settings_type_pellet: 0
 settings_type_chimney: 9
+
 
 
 
