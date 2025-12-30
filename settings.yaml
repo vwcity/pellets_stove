@@ -20,8 +20,8 @@ settings_factory:
   13_min_threshold: 45
   14_max_threshold: 200
   15_blower: 65
-  16_smokey_on: 2000
-  17_smokey_start: 2000
+  16_smokey_on: 2200
+  17_smokey_start: 2200
   18_smokey_p1: 1410
     real: 1740
   19_smokey_p5: 1900
@@ -31,6 +31,7 @@ settings_factory:
   23_blower_clean: 130
 settings_type_pellet: 0
 settings_type_chimney: 9
+
 
 
 
