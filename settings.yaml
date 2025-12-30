@@ -23,7 +23,7 @@ settings_factory:
   16_smokey_on: 2000
   17_smokey_start: 2000
   18_smokey_p1: 1410
-    real: 1700
+    real: 1740
   19_smokey_p5: 1900
   20_blower_p1: 180
   21_blower_p5: 210
@@ -31,6 +31,7 @@ settings_factory:
   23_blower_clean: 130
 settings_type_pellet: 0
 settings_type_chimney: 9
+
 
 
 
