@@ -7,6 +7,7 @@ settings_factory:
     default: 1
   05_start_time: 0.6
     default: 1
+    comment: flamme light
   06_auger_p1: 0.7
     default: 1.2
   07_auger_p5: 1.8
@@ -31,6 +32,7 @@ settings_factory:
   23_blower_clean: 130
 settings_type_pellet: 0
 settings_type_chimney: 9
+
 
 
 
