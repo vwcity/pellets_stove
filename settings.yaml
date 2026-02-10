@@ -5,7 +5,7 @@ settings_factory:
   03_cadence_clean: 45
   04_light_time: 1
     default: 1
-  05_start_time: 0.3
+  05_start_time: 0.1
     default: 1
     comment: flamme light
   06_auger_p1: 0.7
@@ -32,6 +32,7 @@ settings_factory:
   23_blower_clean: 130
 settings_type_pellet: 0
 settings_type_chimney: 9
+
 
 
 
