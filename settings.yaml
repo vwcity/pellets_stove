@@ -15,7 +15,7 @@ settings_factory:
   08_cleaning_speed: 2700
     real: 2800
   09_auger_cleaning: 0.5
-  10_threshold_off: 60
+  10_threshold_off: 50
   11_alarm_delay: 30
   12_cleaning_duration: 30
   13_min_threshold: 45
@@ -32,6 +32,7 @@ settings_factory:
   23_blower_clean: 130
 settings_type_pellet: 0
 settings_type_chimney: 9
+
 
 
 
